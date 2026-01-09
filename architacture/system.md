@@ -121,10 +121,10 @@ graph TB
     SEQ -->|Query| GRAFANA
 
     style NATS fill:#ff6b6b
-    style MINIO_CLUSTER fill:#95e1d3
-    style REDIS_CLUSTER fill:#f9ca24
-    style PG_MASTER fill:#6c5ce7
-    style GRAFANA fill:#ffe66d
+    style MINIO_CLUSTER fill:#aada25
+    style REDIS_CLUSTER fill:#41ca24
+    style PG_MASTER fill:#51cab7
+    style GRAFANA fill:#eec34c
     style HOT fill:#ff6348
     style WARM fill:#ffa502
     style COLD fill:#747d8c
